@@ -1,4 +1,4 @@
-# Sistema em construção de Cadastro de Contatos
+# Sistema de Cadastro de Contatos (Em construção)
 
 CRUD com ASP.NET e Entity Framework.
 
